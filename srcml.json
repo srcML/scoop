@@ -8,6 +8,6 @@
         "64bit": {
             "url": "http://131.123.42.38/lmcrs/srcml-1.0.0-windows-x86_64.zip"
         }
-    }
+    },
     "bin": "srcml.exe"
 }
