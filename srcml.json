@@ -9,5 +9,6 @@
             "url": "http://131.123.42.38/lmcrs/v1.0.0/srcml_1.0.0-1_win.exe",
             "hash": "f402d9f66fc285b40dc163d81f10cd3bb1ef84ecd527f751a8374efe54ef94f3"
         }
-    }
+    },
+    "bin": "srcml.exe"
 }
